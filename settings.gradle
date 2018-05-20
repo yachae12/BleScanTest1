@@ -1,0 +1,1 @@
+include ':app', 'MyBeaconScanner', 'BLEScanExample', 'BLEtest'
